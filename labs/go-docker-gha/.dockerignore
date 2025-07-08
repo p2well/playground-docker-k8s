@@ -1,0 +1,13 @@
+# Ignore Git and GitHub metadata
+.git
+.github
+
+# Ignore documentation and markdown files
+*.md
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore Docker-related files not needed in the image
+.dockerignore
